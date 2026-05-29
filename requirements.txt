@@ -1,9 +1,6 @@
 fastapi
 uvicorn[standard]
 aiohttp
-opencv-python-headless
+opencv-python
 numpy
 uniface
-python-multipart
-python-dotenv
-onnxruntime
