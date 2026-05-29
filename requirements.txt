@@ -1,8 +1,6 @@
 fastapi
 uvicorn[standard]
-numpy
-opencv-python
 aiohttp
-insightface
-onnxruntime
-python-multipart
+opencv-python
+numpy
+uniface
